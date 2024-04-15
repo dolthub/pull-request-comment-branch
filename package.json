@@ -1,6 +1,6 @@
 {
   "name": "pull-request-comment-branch",
-  "version": "1.2.0",
+  "version": "2.2.0",
   "private": true,
   "description": "Gets the head ref and sha of a pull request comment",
   "main": "dist/index.js",
@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "@types/node": "^18.11.0",
-    "@vercel/ncc": "^0.34.0",
+    "@vercel/ncc": "^0.38.1",
     "typescript": "^4.8.4"
   }
 }
